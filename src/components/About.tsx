@@ -48,9 +48,9 @@ const About = () => {
                 <h3 className="text-2xl font-light text-slate-800 mb-6">Mi Historia</h3>
                 <div className="space-y-4 text-slate-600 leading-relaxed">
                   <p>
-                    Con más de X años de experiencia en desarrollo web, he tenido el privilegio 
+                    Con más de 2 años de experiencia en desarrollo web, he tenido el privilegio 
                     de trabajar en proyectos diversos que van desde startups innovadoras hasta 
-                    empresas establecidas.
+                    empresas y personas establecidas.
                   </p>
                   <p>
                     Mi enfoque se centra en crear código limpio, mantenible y escalable, 
