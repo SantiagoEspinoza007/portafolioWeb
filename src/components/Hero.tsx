@@ -116,7 +116,7 @@ const Hero = () => {
               isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-5 opacity-0'
             }`}>
               <h2 className="text-xl md:text-2xl font-light text-slate-700 tracking-wide">
-                Desarrollador Full Stack
+                Freelancer
               </h2>
               <div className="w-24 h-0.5 bg-gradient-to-r from-transparent via-slate-400 to-transparent mx-auto animate-expand" />
             </div>

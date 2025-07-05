@@ -16,7 +16,7 @@ const Projects = () => {
       title: 'Portafolio Personal',
       description: 'Pagina web de portafolio y presentación de imagen y servicios de la Doctora Gabriela Ruiz Medica internista.',
       image: '/proyectoDoctora.png',
-      technologies: ['React', 'TailwindCss', 'EmailJS'],
+      technologies: ['React', 'Typescript', 'TailwindCss', 'EmailJS'],
       github: '#',
       demo: 'https://dragabrielaruiz.com/',
       featured: false
@@ -25,7 +25,7 @@ const Projects = () => {
       title: 'Task Management App',
       description: 'Aplicación de gestión de tareas con colaboración de compañias y equipos, manejo de Stock y ubicaciones.',
       image: '/proyectoTask.png',
-      technologies: ['Vue.js', 'Express', 'MongoDB', 'Socket.io'],
+      technologies: ['React', 'Typescript', 'TailwindCss'],
       github: '#',
       demo: 'https://task4hub.com/',
       featured: false
@@ -53,8 +53,7 @@ const Projects = () => {
             </h2>
             <div className="w-24 h-0.5 bg-gradient-to-r from-transparent via-slate-400 to-transparent mx-auto mb-8" />
             <p className="text-xl text-slate-600 font-light max-w-3xl mx-auto leading-relaxed">
-              Una selección de proyectos que demuestran mi experiencia en desarrollo 
-              full-stack y mi pasión por crear soluciones innovadoras.
+              Una selección de proyectos que demuestran mi experiencia en desarrollo y mi pasión por crear soluciones innovadoras.
             </p>
           </div>
 
