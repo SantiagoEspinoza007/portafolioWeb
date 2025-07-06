@@ -45,11 +45,10 @@ Este portafolio está construido con tecnologías modernas y herramientas de van
 
 ### Herramientas de Desarrollo
 - **ESLint** - Linting de código
-- **PostCSS** - Procesamiento de CSS
 - **Autoprefixer** - Compatibilidad de navegadores
 
 ### Deployment
-- **Vercel/Netlify** - Hosting y CI/CD
+- **Netlify** - Hosting y CI/CD
 - **Git** - Control de versiones
 
 ---
