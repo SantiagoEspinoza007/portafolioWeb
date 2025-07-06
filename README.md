@@ -140,7 +140,11 @@ portafolio/
 
 ## 🎨 Capturas de Pantalla
 
-> **Próximamente:** Se agregarán capturas de pantalla del portfolio
+> ![1](https://github.com/user-attachments/assets/c93f9d6c-6a3f-48b5-aa16-2eba00ee9f82)
+> ![2](https://github.com/user-attachments/assets/28ee13c6-3af7-4290-9130-7ed431c79817)
+> ![3](https://github.com/user-attachments/assets/d75f72a4-6a02-440b-a1cf-ac2fa270e953)
+> ![4](https://github.com/user-attachments/assets/d7e389d6-36c8-411e-811d-4f95bccfc598)
+> ![5](https://github.com/user-attachments/assets/7059d293-ebd1-4dce-87dd-ae726ebc3cf6)
 
 ---
 
@@ -158,15 +162,6 @@ portafolio/
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-## 🙏 Agradecimientos
-
-- **React Team** - Por la increíble biblioteca
-- **Tailwind CSS** - Por el framework de estilos
-- **Lucide** - Por los hermosos iconos
-- **Vite** - Por la velocidad de desarrollo
 
 ---
 
