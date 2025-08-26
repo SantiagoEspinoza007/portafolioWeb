@@ -4,21 +4,30 @@ import { ExternalLink, Github, ArrowRight } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
+      title: 'Portafolio',
+      description: 'Pagina web de portafolio y presentación de imagen y servicios del Doctor Pablo Reyes Burneo Otorrino.',
+      image: '/proyectoDoctorIOP.webp',
+      technologies: ['React', 'Typescript', 'TailwindCss', 'Maileroo', 'NestJS'],
+      github: '#',
+      demo: 'https://doctorpabloreyes.com/',
+      featured: true
+    },
+    {
+      title: 'Portafolio',
+      description: 'Pagina web de portafolio y presentación de imagen y servicios de la Doctora Gabriela Ruiz Medica internista.',
+      image: '/proyectoDoctora.png',
+      technologies: ['React', 'Typescript', 'TailwindCss', 'Maileroo', 'NestJS'],
+      github: '#',
+      demo: 'https://dragabrielaruiz.com/',
+      featured: false
+    },
+    {
       title: 'Rifas Oyola',
       description: 'Pagina web de compra de tickets aleatorios con pasarela de pagos para rifas vista a usuario y admin.',
       image: '/proyectoRifas.png',
       technologies: ['Angular', 'Tailwindcss', 'Go'],
       github: '#',
       demo: 'https://rifasoyolaec.com/',
-      featured: true
-    },
-    {
-      title: 'Portafolio Personal',
-      description: 'Pagina web de portafolio y presentación de imagen y servicios de la Doctora Gabriela Ruiz Medica internista.',
-      image: '/proyectoDoctora.png',
-      technologies: ['React', 'Typescript', 'TailwindCss', 'EmailJS'],
-      github: '#',
-      demo: 'https://dragabrielaruiz.com/',
       featured: false
     },
     {
@@ -30,16 +39,6 @@ const Projects = () => {
       demo: 'https://task4hub.com/',
       featured: false
     },
-    
-    // {
-    //   title: 'Social Media Platform',
-    //   description: 'Red social moderna con funciones de chat en tiempo real, stories y sistema de recomendaciones inteligente.',
-    //   image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800',
-    //   technologies: ['Next.js', 'GraphQL', 'Redis', 'AWS'],
-    //   github: '#',
-    //   demo: '#',
-    //   featured: true
-    // }
   ];
 
   return (
@@ -156,7 +155,7 @@ const Projects = () => {
           </div>
 
           {/* View More Button */}
-          <div className="text-center">
+          {/* <div className="text-center">
             <a
               href="#"
               className="inline-flex items-center space-x-2 bg-gradient-to-r from-slate-700 to-blue-600 text-white px-8 py-4 rounded-full font-light tracking-wide hover:shadow-xl hover:scale-105 transition-all duration-300"
@@ -164,7 +163,7 @@ const Projects = () => {
               <span>Ver Todos los Proyectos</span>
               <ArrowRight className="w-4 h-4" />
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
